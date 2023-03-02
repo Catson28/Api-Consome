@@ -1,1 +1,1 @@
-# Api-authentication-jwt-django-2023
+# Api authentication jwt django 2023
